@@ -48,8 +48,8 @@ In The-Development-Group, each member does development of their choice.
   <a href="https://x.com/ryukokuhorizon">
     <img src="https://img.shields.io/badge/Follow-@ryukokuhorizon-000000.svg?logo=x&logoColor=white&colorA=000000" alt="x">
   </a>
-  <a href="https://www.instagram.com/horizon_ryu/">
-    <img src="https://img.shields.io/badge/Follow-@horizon__ryu-000000.svg?logo=instagram&logoColor=white&colorA=000000" alt="instagram">
+  <a href="https://www.instagram.com/ryukokuhorizon/">
+    <img src="https://img.shields.io/badge/Follow-@ryukokuhorizon-000000.svg?logo=instagram&logoColor=white&colorA=000000" alt="instagram">
   </a>
 </p>
 
