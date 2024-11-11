@@ -52,9 +52,3 @@ In The-Development-Group, each member does development of their choice.
     <img src="https://img.shields.io/badge/Follow-@ryukokuhorizon-000000.svg?logo=instagram&logoColor=white&colorA=000000" alt="instagram">
   </a>
 </p>
-
----
-
-### Modetator
-
-<a href="https://github.com/koga002"><img src="https://avatars.githubusercontent.com/u/124674885?v=4?s=100" width="100px;" alt="koga_002"/><br /><sub><b>koga_002</b></sub></a><br /><a href="#chief-organizer" title="Chief-Organizer">👑</a> <a href="#information-administorator" title="Information-Administrator">⚙️</a> <a href="#technical-advisor" title="Technical-Advisor">💻</a> <a href="#github-organization-moderator" title="Github-Organization-Moderator">🔧</a>
