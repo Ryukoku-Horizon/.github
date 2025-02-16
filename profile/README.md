@@ -1,5 +1,7 @@
 <h1 align="center">👋Hi There! We are <a href="https://ryukokuhorizon.dev">Horizon</a>.</h1><br>
-<p align="center">[English](https://github.com/Ryukoku-Horizon/.config/profile/README.md), [Japanese](https://github.com/Ryukoku-Horizon/.config/profile/README-jp.md)</p>
+<p align="center">
+  <a href="https://github.com/Ryukoku-Horizon/.github/profile/README.md">English</a>, <a href="https://github.com/Ryukoku-Horizon/.github/profile/README-jp.md">Japanese</a>
+</p>
 <p align="center">
   <a href="https://ryukokuhorizon.dev">
     <img src="https://avatars.githubusercontent.com/u/148861120?s=200&v=4" alt="Node.js logo" height="190">
