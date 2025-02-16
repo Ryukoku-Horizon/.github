@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  Horizon is Programming Club in Ryukoku
-University<br>
+  龍谷大学　学友会　学術文化局　プログラミング部 Horizon<br>
 </p>
 
 <p align="center">
@@ -21,15 +20,15 @@ University<br>
 
 ---
 
-### About Horizon
-Horizon is a Programming Club that belong to Ryukoku University as a Pre-Certification Club.
+### Horizonについて
+Horizon は龍谷大学に所属する準認定同好会です。
 
-### Philosophy
+### 理念
 Through programming, students will improve their technical skills and cultivate basic skills to become active members of society.
 
 To promote the sustainable development of the Department as a whole and individual growth through mutual enlightenment and support by closely strengthening intergenerational vertical and horizontal cooperation in the Department.
 
-### Activity
+### 活動
 Horizon is active on two campuses simultaneously.
 We are usually divided into two groups, The-Basic-Group and The-Development-Group.
 
