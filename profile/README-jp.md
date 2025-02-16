@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  龍谷大学　学友会　学術文化局　プログラミング部 Horizon<br>
+  龍谷大学学友会学術文化局プログラミング部 Horizon<br>
 </p>
 
 <p align="center">
