@@ -12,7 +12,7 @@ University<br>
 </p>
 
 <p align="center">
-  <a><img src=https://img.shields.io/badge/University-Ryukoku-f50000.svg?style=flat&colorA=000000></a>
+  <a href="https://www.ryukoku.ac.jp"><img src=https://img.shields.io/badge/University-Ryukoku-f50000.svg?style=flat&colorA=000000></a>
   <img src="https://img.shields.io/badge/Horizon_Members-77_people-ffffff.svg?logo=${logo}&style=${style}&colorA=000000">
   <img src="https://img.shields.io/badge/Club_Status-active-000000.svg?style=flat&colorA=000000&colorB=8839b">
 </p>
