@@ -42,15 +42,15 @@ In The-Development-Group, each member does development of their choice.
 <p align="center">
   </a>
   <a href="https://ryukokuhorizon.dev/">
-    <img src="https://img.shields.io/badge/Homepage-000000.svg?logo=homepage&logoColor=ffffff&colorA=000000" alt="homepage">
+    <img src="https://img.shields.io/badge/website-000000.svg?logo=homepage&logoColor=ffffff&colorA=000000" alt="website`">
   </a>
   <a href="https://github.com/Ryukoku-Horizon">
-    <img src="https://img.shields.io/badge/Github-Ryukoku--Horiozn-000000.svg?logo=github&colorA=000000" alt="github">
+    <img src="https://img.shields.io/badge/Ryukoku--Horiozn-000000.svg?logo=github&colorA=000000" alt="github">
   </a>
   <a href="https://x.com/ryukokuhorizon">
-    <img src="https://img.shields.io/badge/Follow-@ryukokuhorizon-000000.svg?logo=x&logoColor=white&colorA=000000" alt="x">
+    <img src="https://img.shields.io/badge/@ryukokuhorizon-000000.svg?logo=x&logoColor=white&colorA=000000" alt="x">
   </a>
   <a href="https://www.instagram.com/ryukokuhorizon/">
-    <img src="https://img.shields.io/badge/Follow-@ryukokuhorizon-000000.svg?logo=instagram&logoColor=white&colorA=000000" alt="instagram">
+    <img src="https://img.shields.io/badge/@ryukokuhorizon-000000.svg?logo=instagram&logoColor=white&colorA=000000" alt="instagram">
   </a>
 </p>
