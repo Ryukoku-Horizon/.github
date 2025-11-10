@@ -14,27 +14,27 @@
 
 <p align="center">
   <a href="https://www.ryukoku.ac.jp"><img src=https://img.shields.io/badge/University-Ryukoku-f50000.svg?style=flat&colorA=000000></a>
-  <img src="https://img.shields.io/badge/Horizon_Members-77_people-ffffff.svg?logo=${logo}&style=${style}&colorA=000000">
+  <img src="https://img.shields.io/badge/Horizon_Members-82_people-ffffff.svg?logo=${logo}&style=${style}&colorA=000000">
   <img src="https://img.shields.io/badge/Club_Status-active-000000.svg?style=flat&colorA=000000&colorB=8839b">
 </p>
 
 ---
 
 ### Horizonについて
-Horizon は龍谷大学に所属する準認定同好会です。
+RyukokuHorizon は龍谷大学に所属する認定同好会です。
 
 ### 理念
-Through programming, students will improve their technical skills and cultivate basic skills to become active members of society.
+プログラミングを通じて、技術力と社会人基礎力を涵養する。
 
-To promote the sustainable development of the Department as a whole and individual growth through mutual enlightenment and support by closely strengthening intergenerational vertical and horizontal cooperation in the Department.
+組織全体の持続可能な発展と個人の成長を促進するため、組織内における世代間の縦横の連携を緊密に強化し、相互啓発と支援を通じて実現する。
 
 ### 活動
-Horizon is active on two campuses simultaneously.
-We are usually divided into two groups, The-Basic-Group and The-Development-Group.
+RyukokuHorizonは二つのキャンパスで同時に活動しています。
+私たちは基本活動において、基礎班と発展班の2つのグループに分かれます。
 
-The-Basic-Group follows a curriculum created by the club members and focuses on Python, Flet, Html, Css, Js, Git, and so on.
+基礎班は、部員が作成したカリキュラムに従い、Python、Flet、HTML、CSS、JavaScript、Gitなどを学習します。
 
-In The-Development-Group, each member does development of their choice.
+発展班では、各部員が各自の興味関心に基づいて開発を行います。
 
 ---
 ### Social
