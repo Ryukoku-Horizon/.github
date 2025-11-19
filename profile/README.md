@@ -1,6 +1,6 @@
 <h1 align="center">👋Hi There! We are <a href="https://ryukokuhorizon.dev">Horizon</a>.</h1><br>
 <p align="center">
-  <a href=".github/profile/README.md">English</a>, <a href=".github/profile/README-jp.md">Japanese</a>
+  <a href="./README.md">English</a>, <a href="./README-jp.md">Japanese</a>
 </p>
 <p align="center">
   <a href="https://ryukokuhorizon.dev">
